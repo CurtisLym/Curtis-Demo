@@ -1,5 +1,5 @@
-# Quick Demo
-## Sub-Heading 
+# FinTech Case Study "Shopify"
+### By Curtis Lym 
 
 Hello, this is a nirmal sentence.
 
