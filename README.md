@@ -1,7 +1,7 @@
 # FinTech Case Study "Shopify"
 ##### By Curtis Lym 
 
-**Overview and Origin**
+**OVERVIEW & ORIGIN**
 
 In this case study we will be focusing on Shopify, one of the top e-commerce hosting sites in Canada(hosting over 1.7 million stores), Founded by Topbias Lutke, Daniel Weinand, and Scott Lake. Shopify is a way where small and large business owners can build their store online and offline. It is a way where businesses can sell both online, from their own websites, or in person with Shopify POS. You can think of Shopify as a facilitator, by providing a foundation where businesses can showcase products, engage with customers, accept payments and more. Shopify makes it easy for business owners to operate on the web.
 
@@ -11,13 +11,13 @@ However, Shopify wasn't the intended destination for its founders. Before Shopif
 
 Lutke, being a very talented software engineer, decided with his co-founders to help solve these issues. Once they had a solid product, they created the name “Jaded Pixel”, later on as they added more solutions to the site they changed it to what we know now as “Shopify”. A storefront intended to sell snowboards, has now become one of the largest business hosting sites next to Amazon.
 
-**Business Activities**
+**BUSINESS ACTIVITIES**
 
 Shopify was originally created as an online snowboarding shop but was changed in order to solve ecommerce website development issues. After the difficulty he faced with these ecommerce platforms, Lutke intended Shopify to improve on speed, simplicity and design. Their aim was towards business owners small and large. A place where all you need is an idea, something to sell and a decent internet connection, and your store can be up and running in no time. The site provides over 1200 apps with specialized features such as inventory tracking, shipping tools and a wide range of pricing plans. Due to Shopify’s simplicity, robustness of its platform and extensive partner ecosystem, it has allowed over 1.7 million people regardless of technical background to sell and buy products. 
 
 Shopify utilizes over 79 technological products and services which includes HTML, Google Analytics, and jQuery, according to G2 Stack. According to BuiltWith, Shopify also currently uses 153 technologies for its website. These include Viewport Meta, IPhone/Mobile compatible, and Apple Mobile Web Clips Icon. These technologies allow for easier use when browsing their website while on the computer and mobile devices. The most popular apps that are use by its users and developers, include Shop: Delivery & Order Trackers, Shopify - Ecommerce Business, Logo Maker: Designer & Create, Scratch Photos, Hatchful - Logo Maker, Shopify Point of Sale(POS), Frenzy - Buy Sneakers and More, and Shopify Ping. These software implementations have given users the ability to customize and brand their businesses the way they have envisioned. Providing more distinction and individuality between the businesses that are operating on Shopify.    
 
-**Landscape**
+**LANDSCAPE**
 
 Shopify provides its users to showcase products, engage with customers, get paid, ship products, and assist in managing day-to-day finances and operations. Some ecommerce businesses use different tools in order to manage each of these activities and spend a lot of time and money focusing on combining these systems together. However, Shopify groups these systems together  and becomes the base where other applications, processes, or technologies are developed. Shopify holds all the business tools people need in one place. Due to this, Shopify operates in two FinTech domains which are personal finance and lending.
 
@@ -41,11 +41,11 @@ Finally, Marketing funding gives its users the ability to obtain funds in order 
 
  Shopify’s loaning service allows funding for businesses that can’t meet all the prerequisites that banks do, allowing for more obtainable funding. 
 
-**Results**
+**RESULTS**
 
 Shopify has been quite the successful Fintech business since their founding but had received a huge boost in user subscriptions thanks to the Covid Pandemic, receiving a massive number of users that have them rivaling Amazon. What was a curse for the real world became a huge boost for the digital world, many had to adapt to the functionalities of the internet, small and large businesses had to learn to utilize and improve their virtual services, especially small businesses. Many small business owners had no choice but to switch focus to the virtual world since by avoiding it meant their business could potentially ploment. Also due to the restraints of the pandemic people had to find ways to be entertained or improve on skills through the internet. This led people to become experimental and take more risks on themselves. which led many to open that business they’ve always wanted. So many new, small and large businesses owners went looking for ecommerce platforms in order to help them manage their businesses. For most, Shopify became a beacon for developing ecommerce businesses. Due to the Pandemic, Shopify was able to surpass 1 billion dollars in revenue in 2019, this was the first time in Shopify's company history of achieving this. As of late 2019, Amazon commanded approximately 37% of U.S ecommerce sales, while Shopify was able to obtain second by achieving 6% of the market share, this put them ahead of large corporations like eBay, Walmart and Apple. Shopify has seen amazing strides during the early stage of the pandemic, catapulting this Canadian company to one of the leading ecommerce companies in the World.
 
-**Recommendations**
+**RECOMMENDATIONS**
 
 Shopify has a great business foundation that provides its users with virtually whatever they need in order to correctly operate in the ecommerce space. However, the fintech company should expand its operations into Blockchain. By incorporating Blockchain to Shopify’s network, it can improve on a variety of aspects. For example, smart contracts are a self executing contract that writes the terms of all parties directly into code. This code exists on a decentralized Blockchain network and ensures that all parties in the contract do what they are supposed to do. They are self-automated which means that the program can run without any downtime and without interference from foiregn parties. This basically allows for a more efficient way of operating transactions. It ensures that your party gets paid once your end of the deal is met. Also, if parties decide to cancel trades or transactions, your goods/services are returned in full. This means that the need for lawyers, government officials, or other middle men needed to settle disputes are reduced. This gives businesses like Shopify and their users peace of mind when dealing with suspicious clients. According to a Forbes article, it introduced DLT “is a technological infrastructure that enables: 
 
@@ -53,11 +53,11 @@ Shopify has a great business foundation that provides its users with virtually w
 
 DTL allows for safe operation on a decentralized database, that helps to eliminate the need for a central third party authority to keep constant checks against fraud or manipulation. Institutions like these can help Shopify enter Blockchian technology with confidence, and reassure users that they can put more trust in their networks. 
 
-**Conclusion**
+**CONCLUSION**
 
 In Conclusion, Shopify's growth and success is quite the interesting concept, to see how they started as a mere snowboarding ecommerce site and see them develop into one the biggest hosting ecommerce sites in the World. With over 100 internal technologies helping manage and aid in the development of users' businesses. Due to these technologies like  Logo Maker: Designer & Create, Scratch Photos, and Hatchful - Logo Maker, Shopify has created an user friendly space where entrepreneurs new and experienced can log on and design or further develop their brands. Also breaking records during times of hardship like the Covid 19 and rising high enough to challenge one of the highest ecommerce sites, known as Amazon, and being one of their major competitors. Shopify is truly an excellent FinTech company and its potential to grow even larger is obvious. However its efficiency can be extended even further with the help of Blockchain Technology. By recording data on decentralized networks the company can increase its productivity and help create more trustworthy environments between sellers and buyers. Shopify is an Excellent FinTech company that gives others the opportunity to develop and see their entrepreneurial dreams come to light. 
 
-**Work Cited**
+**WORK CITED**
 
 [Product Habits blog](https://producthabits.com/shopify-grew-snowboard-shop-10b-commerce-ecosystem/)
 
